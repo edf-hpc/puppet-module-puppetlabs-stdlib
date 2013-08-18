@@ -1,0 +1,2 @@
+  version=3
+  https://forge.puppetlabs.com/puppetlabs/stdlib/(.+).tar.gz

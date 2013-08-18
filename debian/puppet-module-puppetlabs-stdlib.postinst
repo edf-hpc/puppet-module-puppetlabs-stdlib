@@ -1,0 +1,6 @@
+#!/bin/sh
+set -e
+
+update-alternatives --install /usr/share/puppet/modules/stdlib puppet-module-stdlib /usr/share/puppet/modules.available/puppetlabs-stdlib 500
+
+#DEBHELPER#

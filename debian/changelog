@@ -1,0 +1,5 @@
+puppet-module-puppetlabs-stdlib (4.1.0-1) UNRELEASED; urgency=low
+
+  * Initial release Closes: #720079).
+
+ -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Sun, 18 Aug 2013 10:58:22 +0200
