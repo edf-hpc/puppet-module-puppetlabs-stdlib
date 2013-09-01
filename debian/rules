@@ -1,14 +1,3 @@
 #!/usr/bin/make -f
 %:
 	dh $@
-
-PUPPET_MODULE_DIR="usr/share/puppet/modules.available/puppetlabs-stdlib/"
-
-override_dh_install:
-	dh_install Modulefile $(PUPPET_MODULE_DIR)
-	dh_install metadata.json $(PUPPET_MODULE_DIR)
-	dh_install manifests $(PUPPET_MODULE_DIR)
-	dh_install lib $(PUPPET_MODULE_DIR)
-	#dh_install spec $(PUPPET_MODULE_DIR)
-	dh_install tests $(PUPPET_MODULE_DIR)
-	dh_install
