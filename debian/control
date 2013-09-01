@@ -12,7 +12,7 @@ Homepage: https://forge.puppetlabs.com/puppetlabs/stdlib
 Package: puppet-module-puppetlabs-stdlib
 Section: admin
 Architecture: all
-Depends: ${misc:Depends}, puppet-common
+Depends: ${misc:Depends}, puppet-common (>= 3)
 Description: Puppet module standard library
  Puppet lets you centrally manage every important aspect of your system
  using a cross-platform specification language that manages all the
