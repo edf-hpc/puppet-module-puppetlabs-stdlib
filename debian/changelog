@@ -1,5 +1,6 @@
-puppet-module-puppetlabs-stdlib (4.1.0-1) UNRELEASED; urgency=low
+puppet-module-puppetlabs-stdlib (4.1.0-1) unstable; urgency=low
 
+  [ Thomas Bechtold ]
   * Initial release Closes: #720079).
 
- -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Sun, 18 Aug 2013 10:58:22 +0200
+ -- Stig Sandbeck Mathisen <ssm@debian.org>  Sun, 01 Sep 2013 15:26:19 +0200
