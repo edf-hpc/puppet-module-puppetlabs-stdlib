@@ -1,3 +1,9 @@
+puppet-module-puppetlabs-stdlib (4.1.0-2) UNRELEASED; urgency=low
+
+  * Mention update-alternatives in README.Debian.
+
+ -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Mon, 02 Sep 2013 08:11:33 +0200
+
 puppet-module-puppetlabs-stdlib (4.1.0-1) unstable; urgency=low
 
   [ Thomas Bechtold ]
