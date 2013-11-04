@@ -1,9 +1,10 @@
-puppet-module-puppetlabs-stdlib (4.1.0-2) UNRELEASED; urgency=low
+puppet-module-puppetlabs-stdlib (4.1.0-2) unstable; urgency=low
 
+  [ Thomas Bechtold ]
   * Mention update-alternatives in README.Debian.
   * Fix postinst and prerm scripts.
 
- -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Mon, 02 Sep 2013 08:11:33 +0200
+ -- Stig Sandbeck Mathisen <ssm@debian.org>  Mon, 04 Nov 2013 18:42:08 +0100
 
 puppet-module-puppetlabs-stdlib (4.1.0-1) unstable; urgency=low
 
