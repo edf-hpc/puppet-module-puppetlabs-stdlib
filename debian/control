@@ -12,7 +12,6 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-puppet/puppet-module-puppet
 Homepage: https://forge.puppetlabs.com/puppetlabs/stdlib
 
 Package: puppet-module-puppetlabs-stdlib
-Section: admin
 Architecture: all
 Depends: ${misc:Depends}, puppet-common (>= 3)
 Description: Puppet module standard library
