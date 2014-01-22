@@ -1,11 +1,11 @@
-puppet-module-puppetlabs-stdlib (4.1.0-3) UNRELEASED; urgency=medium
+puppet-module-puppetlabs-stdlib (4.1.0-3) unstable; urgency=medium
 
   * debian/watch: use redirector from qa.debian.org.
   * debian/control:
     - use Debian address in Uploaders field.
     - Bump Standards-Version to 3.9.5. No further changes.
 
- -- Thomas Bechtold <toabctl@debian.org>  Tue, 21 Jan 2014 07:50:37 +0100
+ -- Thomas Bechtold <toabctl@debian.org>  Wed, 22 Jan 2014 08:00:14 +0100
 
 puppet-module-puppetlabs-stdlib (4.1.0-2) unstable; urgency=low
 
