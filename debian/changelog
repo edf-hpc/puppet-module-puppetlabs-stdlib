@@ -1,3 +1,9 @@
+puppet-module-puppetlabs-stdlib (4.3.2-1) UNRELEASED; urgency=medium
+
+  * Imported upstream relase 4.3.2
+
+ -- Stig Sandbeck Mathisen <ssm@debian.org>  Fri, 24 Oct 2014 21:17:45 +0200
+
 puppet-module-puppetlabs-stdlib (4.1.0-3) unstable; urgency=medium
 
   * debian/watch: use redirector from qa.debian.org.
