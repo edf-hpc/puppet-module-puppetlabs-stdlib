@@ -8,6 +8,7 @@ Standards-Version: 3.9.6
 Vcs-Browser: https://anonscm.debian.org/cgit/pkg-puppet/puppet-module-puppetlabs-stdlib.git
 Vcs-Git: git://anonscm.debian.org/pkg-puppet/puppet-module-puppetlabs-stdlib.git
 Homepage: https://forge.puppetlabs.com/puppetlabs/stdlib
+Testsuite: autopkgtest
 
 Package: puppet-module-puppetlabs-stdlib
 Architecture: all
