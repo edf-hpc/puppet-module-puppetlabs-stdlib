@@ -1,4 +1,3 @@
 metadata.json usr/share/puppet/modules.available/puppetlabs-stdlib
 manifests     usr/share/puppet/modules.available/puppetlabs-stdlib
 lib           usr/share/puppet/modules.available/puppetlabs-stdlib
-tests         usr/share/puppet/modules.available/puppetlabs-stdlib
