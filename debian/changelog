@@ -1,8 +1,12 @@
-puppet-module-puppetlabs-stdlib (4.6.0-1) UNRELEASED; urgency=medium
+puppet-module-puppetlabs-stdlib (4.9.0-1) UNRELEASED; urgency=medium
 
+  [ Michael Weiser ]
   *  Imported upstream release 4.6.0 (Closes: #775535, CVE-2015-1029)
 
- -- Michael Weiser <michael.weiser@gmx.de>  Tue, 23 Jun 2015 15:31:25 +0200
+  [ Stig Sandbeck Mathisen ]
+  * Imported upstream release 4.9.0
+
+ -- Stig Sandbeck Mathisen <ssm@debian.org>  Fri, 11 Sep 2015 23:28:21 +0200
 
 puppet-module-puppetlabs-stdlib (4.4.0-1) unstable; urgency=medium
 
