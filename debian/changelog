@@ -1,6 +1,9 @@
 puppet-module-puppetlabs-stdlib (4.12.0-1) UNRELEASED; urgency=medium
 
   * Imported upstream relase 4.12.0
+  * Declare compliance with Debian policy 3.9.8
+  * Update VCS-* URLs
+  * Remove unnecessary version from dependency
 
  -- Stig Sandbeck Mathisen <ssm@debian.org>  Tue, 17 May 2016 11:30:44 +0200
 
