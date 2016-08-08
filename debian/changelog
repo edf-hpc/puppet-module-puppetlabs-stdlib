@@ -1,4 +1,4 @@
-puppet-module-puppetlabs-stdlib (4.12.0-1calibre1~bpo8-1) calibre9; urgency=low
+puppet-module-puppetlabs-stdlib (4.12.0-1calibre1~bpo8+1) calibre9; urgency=low
 
   * New upstream release for Calibre9
 
